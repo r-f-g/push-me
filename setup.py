@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='slackbot',
-      version='0.2',
-      description='Slack bot for notifications from server.',
-      url='https://github.com/r-f-g/slack-bot.git',
+setup(name='pushme',
+      version='0.5',
+      description='Push me notifications from any device.',
+      url='https://github.com/r-f-g/push-me.git',
       author='Robert Gildein',
       author_email='gildeinrobert@gmail.com',
       license='MIT',
-      packages=['slackbot'],
+      packages=['pushme'],
       zip_safe=False)
